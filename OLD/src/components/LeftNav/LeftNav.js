@@ -5,7 +5,7 @@ class LeftNav extends Component {
     render() {
         return (
             <div>
-                LEFT NAV
+                Lambda Notes
             </div>
         );
     }
